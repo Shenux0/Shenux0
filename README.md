@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Your%20Name&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,50:929292,100:D1D1D1&height=200&section=header&text=Rashen%20Kodagoda&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=FAFAFA" width="100%" alt="Header"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Explorer;Problem+Solver;Gaming+Enthusiast;Building+the+Future" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=929292&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Explorer;Problem+Solver;Gaming+Enthusiast;Building+the+Future" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=4ECDC4&style=for-the-badge" alt="profile views" />
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" />
+  <img src="https://komarev.com/ghpvc/?username=Shenux0&label=Profile%20Views&color=929292&style=for-the-badge" alt="profile views" />
+  <a href="https://shenux0.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=FAFAFA" alt="website" />
   </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-45B7D1?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  <a href="mailto:rashen3118@gmail.com">
+    <img src="https://img.shields.io/badge/Email-929292?style=for-the-badge&logo=gmail&logoColor=FAFAFA" alt="email" />
   </a>
 </div>
 
@@ -24,7 +24,7 @@
 
 Hey there! 👋 I'm a passionate developer on an exciting journey through the world of full-stack development. My curiosity drives me to explore new technologies and build solutions that make a difference.
 
-- 💼 **Currently:** Diving deep into Full-Stack Development
+- 💼 **Currently:** working on creative,modern,unique concept based portfolio
 - 🌱 **Learning:** Mastering the MERN Stack (MongoDB, Express, React, Node.js)
 - 🎯 **Goal:** Building scalable web applications that solve real problems
 - 🎮 **Fun fact:** Gaming enthusiast who loves a good challenge both in code and games
@@ -37,26 +37,26 @@ Hey there! 👋 I'm a passionate developer on an exciting journey through the wo
 
 ### **Frontend Magic**
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-222222?style=for-the-badge&logo=html5&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/CSS3-929292?style=for-the-badge&logo=css3&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/JavaScript-D1D1D1?style=for-the-badge&logo=javascript&logoColor=222222" />
+  <img src="https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-929292?style=for-the-badge&logo=tailwind-css&logoColor=FAFAFA" />
 </p>
 
 ### **Backend Power**
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-D1D1D1?style=for-the-badge&logo=nodedotjs&logoColor=222222" />
+  <img src="https://img.shields.io/badge/Express.js-222222?style=for-the-badge&logo=express&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/MongoDB-929292?style=for-the-badge&logo=mongodb&logoColor=FAFAFA" />
 </p>
 
 ### **Developer Tools**
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-D1D1D1?style=for-the-badge&logo=git&logoColor=222222" />
+  <img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/VS_Code-929292?style=for-the-badge&logo=visual-studio-code&logoColor=FAFAFA" />
+  <img src="https://img.shields.io/badge/Postman-D1D1D1?style=for-the-badge&logo=postman&logoColor=222222" />
 </p>
 
 ---
@@ -64,12 +64,12 @@ Hey there! 👋 I'm a passionate developer on an exciting journey through the wo
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shenux0&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=222222&text_color=FAFAFA&icon_color=929292&title_color=D1D1D1" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shenux0&layout=compact&theme=dark&hide_border=true&bg_color=222222&text_color=FAFAFA&title_color=D1D1D1" height="180em" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shenux0&theme=dark&hide_border=true&background=222222&stroke=929292&ring=D1D1D1&fire=D1D1D1&currStreakLabel=FAFAFA&sideLabels=FAFAFA&currStreakNum=FAFAFA&sideNums=FAFAFA&dates=929292" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -107,15 +107,15 @@ const motivation = "Every expert was once a beginner. Every pro was once an amat
   
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🚀 **Project One** | Brief description of your amazing project | React, Node.js, MongoDB |
-| 🌟 **Project Two** | Another cool project you've built | JavaScript, Express, CSS |
-| 💡 **Project Three** | Your latest creation | MERN Stack |
+| 🚀 **WELLnest** | Your ultimate plant care mobile app | Kotlin |
+| 🌟 **Portfolio** |Still working on this project and deploying soon! | JavaScript, Express, CSS , HTML , React |
+| 💡 **Project Redbrick** | Modern looking fully functioned Construction management web app | MERN Stack |
 
 </div>
 
 <p align="center">
-  <a href="https://github.com/yourusername?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Shenux0?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-222222?style=for-the-badge&logo=github&logoColor=FAFAFA" />
   </a>
 </p>
 
@@ -124,17 +124,17 @@ const motivation = "Every expert was once a beginner. Every pro was once an amat
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/ranidu-rashen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-222222?style=for-the-badge&logo=linkedin&logoColor=FAFAFA" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://instagram.com/_shen.u" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-929292?style=for-the-badge&logo=instagram&logoColor=FAFAFA" />
   </a>
-  <a href="https://discord.gg/yourdiscord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://github.com/Shenux0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-D1D1D1?style=for-the-badge&logo=github&logoColor=222222" />
   </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:rashen3118@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-222222?style=for-the-badge&logo=gmail&logoColor=FAFAFA" />
   </a>
 </div>
 
@@ -142,7 +142,7 @@ const motivation = "Every expert was once a beginner. Every pro was once an amat
 
 ## 💭 Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=222222&color=FAFAFA&border=929292" alt="Random Dev Quote"/>
 </div>
 
 ---
@@ -160,7 +160,7 @@ const motivation = "Every expert was once a beginner. Every pro was once an amat
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,50:929292,100:D1D1D1&height=120&section=footer" width="100%" />
   
   **Made with ❤️ and lots of ☕**
   
