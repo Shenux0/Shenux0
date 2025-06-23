@@ -72,9 +72,12 @@ Hey there! 👋 I'm a passionate developer on an exciting journey through the wo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shenux0&theme=dark&hide_border=true&background=222222&stroke=929292&ring=D1D1D1&fire=D1D1D1&currStreakLabel=FAFAFA&sideLabels=FAFAFA&currStreakNum=FAFAFA&sideNums=FAFAFA&dates=929292" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shenux0/Shenux0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shenux0/Shenux0/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Shenux0/Shenux0/output/github-snake.svg" />
+</picture>
 
 ---
 
