@@ -11,7 +11,7 @@
   <a href="https://shenux0.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=google-chrome&logoColor=FAFAFA" alt="website" />
   </a>
-  <a href="mailto:rashen3118@gmail.com">
+  <a href="mailto:rashenkodagoda@gmail.com">
     <img src="https://img.shields.io/badge/Email-929292?style=for-the-badge&logo=gmail&logoColor=FAFAFA" alt="email" />
   </a>
 </div>
